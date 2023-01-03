@@ -1,0 +1,8 @@
+2023-01-03 14:10:29,996:INFO:clientApp.py:Image loaded
+2023-01-03 14:10:35,722:INFO:Detector.py:Detector object initialized
+2023-01-03 14:10:35,722:INFO:clientApp.py:ClientApp object initialized
+2023-01-03 14:10:35,729:INFO:utils.py:Image Decoded Succesfully
+2023-01-03 14:10:35,732:INFO:utils.py:Image Saved Sucessfully
+2023-01-03 14:10:41,845:INFO:Detector.py:Output Image Saved
+2023-01-03 14:10:41,869:INFO:utils.py:Image encoded successfully
+2023-01-03 14:10:41,877:INFO:Detector.py:Inference Completed
