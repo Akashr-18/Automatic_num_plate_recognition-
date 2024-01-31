@@ -9,7 +9,7 @@
 
 # About The Project
 
-This project has been developed to detect and recognize a number plate in an image containing a vehicle
+This project has been developed to detect and recognize a number plate in an image containing a vehicle.
 
 # Project Description 
 
