@@ -30,7 +30,7 @@ Dataset : [Link](https://learnopencv.com/automatic-license-plate-recognition-usi
 * com_in_ineuron_ai_utils - This directory contains the script for all necessary function
 * my_model - This directory contains trained object detection model used for prediction
 * templates - This directory contains the frontend files for the webapp
-* Sample_images - This directory contains sample images to test the app
+* Sample_images - This directory contains sample images to test the app.
 
 # Preview of the Web App
 
